@@ -1,0 +1,59 @@
+body{
+background-color: #ccf2ff;margin-right:50px;margin-left:50px;
+}
+h1 {
+color:black;text-align:center;font-size:40px;font-family:"Cambria";
+}
+p {
+color:black;text-align:center;font-size:16px;font-family:"Cambria";line-height:14px;
+}
+h2 {
+color:black;text-align:center;font-size:36px;font-family:"Cambria";line-height:14px;
+}
+h3 {
+color:black;text-align:center;font-size:24px;font-family:"Cambria";line-height:14px;
+}
+h4 {
+color:black;text-align:center;font-size:24px;font-family:"Cambria";line-height:14px;
+}
+h5 {
+color:black;text-align:center;font-size:24px;font-family:"Cambria";line-height:14px;
+}
+h6 {
+color:black;text-align:center;font-size:24px;font-family:"Cambria";line-height:14px;
+}
+#hvac { 
+color:black;font-weight:bold;text-align:center;font-size:24px;font-family:"Cambria";line-height:14px;
+}
+ul {
+color:black;text-align:center;font-size:16px;font-family:"Cambria";line-height:14px;
+}
+a:link {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
