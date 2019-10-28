@@ -5,11 +5,13 @@ body { background-color:#B3ECFF;
 h1 {
 Color:black; 
 font-family: "Cambria";
+ font-size: 45px;
 
 }
 h2 {
 Color:black; 
 font-family: "Cambria";
+font-size: 25px;
 
 }
 p {
